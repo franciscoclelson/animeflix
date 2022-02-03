@@ -1,0 +1,6 @@
+{
+    "githubPullRequests.remotes": [
+        "upstream"
+    ],
+    "git.enableCommitSigning": true
+}
