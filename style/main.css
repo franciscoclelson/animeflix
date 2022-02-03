@@ -1,17 +1,21 @@
+
+            /*declarando variaveis*/
+
+
 :root{
     --vermelho: #e50914;
     --preto:#020202;
     
 }
 
-
+            /*resetando o corpo*/
 *{
 margin:0;
 padding:0;
 box-sizing:border-box;
 
 }
-/* base*/
+        /* configuraçãp*/
 
 body{
 background: var(--preto);
@@ -45,11 +49,11 @@ header nav a:hover{
     color:rgb(253, 2, 2);
 }
 
-/*filme principal*/
+         /*filme principal*/
 
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('/imag/capa2.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('/imag/capa.jpg');
     height: 600px;
     background-size:cover;
 
@@ -61,9 +65,7 @@ header nav a:hover{
 
 .filme-principal .descricao{
     margin-bottom: 10px;
-    margin-top: 300px;
-
-       
+    margin-top: 300px;       
 }
 
 .filme-principal .titulo{
@@ -95,7 +97,7 @@ header nav a:hover{
 
 .filme-principal .botao i{
     margin-right: 10px;
-    margin-top: 10px;
+    margin-top: 10px;     
 }
 
 
@@ -136,3 +138,7 @@ header nav a:hover{
     
 }
 
+.rodape{
+    margin-top: 200px;
+    font-size: arial;
+}
