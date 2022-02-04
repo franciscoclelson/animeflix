@@ -1,6 +1,5 @@
-#CLONE DA NETFLIX
+# CLONE DA NETFLIX
 
-##NETANIMESBS
-
+## NETANIMESBS
 
 Recriando a interface de streaming usando tecnologias simples como HTML5, CSS3 e JavaScript.
